@@ -1,0 +1,4 @@
+hardware/sim/*.vvp
+hardware/sim/*.vcd
+software/__pycache__/
+*.pyc
